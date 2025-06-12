@@ -2,6 +2,12 @@ html {
     width: 100vw;
 }
 
+nav {
+    background-image: url("https://res.cloudinary.com/daxdf7hr0/image/upload/v1749683305/red-rockect_q3ov2o.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 footer ul {
     list-style: none;
