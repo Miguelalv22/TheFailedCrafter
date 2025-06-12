@@ -1,0 +1,15 @@
+html {
+    width: 100vw;
+}
+
+
+footer ul {
+    list-style: none;
+    justify-content: center;
+}
+
+footer img {
+    margin: 0 1rem;
+    width: 30px;
+    height: 30px;
+}
