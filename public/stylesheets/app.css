@@ -9,6 +9,12 @@ nav {
     background-position: center;
 }
 
+nav li a {
+    margin: 10px;
+    text-decoration: none;
+    border: none;
+}
+
 footer ul {
     list-style: none;
     justify-content: center;
